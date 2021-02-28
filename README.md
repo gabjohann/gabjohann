@@ -1,6 +1,6 @@
 # Hi there :blush:, I'm Johann :computer:
 
-I am a Front-end student 💻
+💻 I am a Front-end student 
 
 🚀 I'm studying at **Rocketseat** <br/>
 <br/>💜 I hope to collaborate with projects in Front-end <br/>
