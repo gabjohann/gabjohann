@@ -4,7 +4,8 @@
 Sou desenvolvedor front-end e mobile, apaixonado pela criação e desenvolvimento através da tecnologia.
 
 - 🎓️ Tecnólogo em Desenvolvimento Mobile.
-- 🎓️ Pós-graduando em Tecnologias Aplicadas a Educação.
+- 🎓️ Pós-grauado em Tecnologias Aplicadas a Educação.
+- 🎓️ Pós-grauado em NeuroEducação.
 
 ## 💻️ Tecnologias
 
